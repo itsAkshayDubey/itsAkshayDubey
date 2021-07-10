@@ -5,7 +5,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Counter Strike
 
-
 <br />
 
 ### Languages and Tools:
@@ -22,6 +21,10 @@
 <br />
 <br />
 
+
+
 [![Github](https://img.shields.io/github/followers/itsAkshayDubey?label=Follow&style=social)](https://github.com/itsAkshayDubey)
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAkshayDubey&theme=tokyonight)
