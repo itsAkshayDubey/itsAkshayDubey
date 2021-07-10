@@ -21,3 +21,8 @@
 
 <br />
 <br />
+![](https://visitor-badge.laobi.icu/badge?page_id=itsAkshayDubey.itsAkshayDubey)
+
+[![Github](https://img.shields.io/github/followers/itsAkshayDubey?label=Follow&style=social)](https://github.com/itsAkshayDubey)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAkshayDubey&theme=tokyonight)
