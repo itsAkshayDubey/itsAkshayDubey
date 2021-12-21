@@ -1,4 +1,4 @@
-### Hi there, I'm Akshay Dubey 👋
+### Hi there, I'm Akshay 👋
 
 
 - 🌱 I’m currently learning everything 
