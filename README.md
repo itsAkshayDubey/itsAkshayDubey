@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Counter Strike
-- 📫 You can reach me via <a href=akshay.dubey055@gmail.com>Gmail</a> / <a href=https://www.linkedin.com/in/itsakshaydubey>LinkedIn</a>
+- 📫 You can reach me via <a href="mailto: akshay.dubey055@gmail.com">Gmail</a> / <a href=https://www.linkedin.com/in/itsakshaydubey>LinkedIn</a>
 
 <br />
 
