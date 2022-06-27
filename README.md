@@ -6,8 +6,6 @@
 - ⚡ Fun fact: I love to play Counter Strike
 - 📫 You can reach me via <a href="mailto: akshay.dubey055@gmail.com">Gmail</a> / <a href=https://www.linkedin.com/in/itsakshaydubey>LinkedIn</a>
 
-<br />
-
 ### GitHub Profile Achievements 🏆
 <img align="left" alt="Pull Shark" width="30px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png" />
 <br />
