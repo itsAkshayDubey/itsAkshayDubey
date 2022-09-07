@@ -38,12 +38,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAkshayDubey&theme=tokyonight)
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="itsAkshayDubey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsAkshayDubey&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/itsAkshayDubey?tab=repositories"><img alt="itsAkshayDubey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsAkshayDubey&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/tjgurwara99/github-readme-streak-stats">
+  <a href="https://github.com/itsAkshayDubey?tab=repositories">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsAkshayDubey&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
   <br/>
