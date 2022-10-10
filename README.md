@@ -8,6 +8,7 @@
 
 ### GitHub Profile Achievements 🏆
 <img align="left" alt="Pull Shark" width="30px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png" />
+<img align="left" alt="Pull Shark" width="30px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png" />
 <br />
 
 ### Languages and Tools ⚙️
