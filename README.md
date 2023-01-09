@@ -2,11 +2,11 @@
 
 
 - 🌱 I’m currently learning everything
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Counter Strike
 - 📫 You can reach me via <a href="mailto: akshay.dubey055@gmail.com">Gmail</a> / <a href=https://www.linkedin.com/in/itsakshaydubey>LinkedIn</a>
 
-### GitHub Profile Achievements 🏆
+<!--### GitHub Profile Achievements 🏆
 <img align="left" alt="Pull Shark" width="30px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png" />
 <img align="left" alt="Pull Shark" width="30px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png" />
 <img align="left" alt="Pair Extraordinaire" width="30px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pair-extraordinaire-default.png" />
@@ -26,7 +26,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
+<br />-->
 
 ###
 
@@ -40,7 +40,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAkshayDubey&theme=tokyonight)
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/itsAkshayDubey?tab=repositories"><img alt="itsAkshayDubey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsAkshayDubey&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!--<a href="https://github.com/itsAkshayDubey?tab=repositories"><img alt="itsAkshayDubey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsAkshayDubey&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
 
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
